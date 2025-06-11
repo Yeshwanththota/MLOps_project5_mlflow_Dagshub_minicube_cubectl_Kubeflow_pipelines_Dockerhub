@@ -31,3 +31,45 @@
 2025-06-11 09:47:57,732 - INFO - Recall: 0.5995223880597015
 2025-06-11 09:47:57,732 - INFO - ROC AUC: 0.49967731082550826
 2025-06-11 09:47:57,733 - INFO - Model training and evaluation completed successfully
+2025-06-11 10:45:20,697 - INFO - ModelTraining initialized with processed data path: artifacts/processed and model output path: artifacts/model
+2025-06-11 10:45:20,750 - INFO - Data loaded successfully from artifacts/processed
+2025-06-11 10:45:36,408 - INFO - Model trained successfully
+2025-06-11 10:45:37,111 - INFO - Model evaluation metrics:
+2025-06-11 10:45:37,111 - INFO - Accuracy: 0.5995223880597015
+2025-06-11 10:45:37,111 - INFO - F1 Score: 0.45031668492929605
+2025-06-11 10:45:37,111 - INFO - Precision: 0.536223766057273
+2025-06-11 10:45:37,111 - INFO - Recall: 0.5995223880597015
+2025-06-11 10:45:37,111 - INFO - ROC AUC: 0.49967731082550826
+2025-06-11 10:45:37,111 - INFO - Model training and evaluation completed successfully
+2025-06-11 10:48:26,951 - INFO - ModelTraining initialized with processed data path: artifacts/processed and model output path: artifacts/model
+2025-06-11 10:48:26,986 - INFO - Data loaded successfully from artifacts/processed
+2025-06-11 10:48:38,444 - INFO - Model trained successfully
+2025-06-11 10:48:39,056 - INFO - Model evaluation metrics:
+2025-06-11 10:48:39,056 - INFO - Accuracy: 0.5995223880597015
+2025-06-11 10:48:39,056 - INFO - F1 Score: 0.45031668492929605
+2025-06-11 10:48:39,056 - INFO - Precision: 0.536223766057273
+2025-06-11 10:48:39,056 - INFO - Recall: 0.5995223880597015
+2025-06-11 10:48:39,056 - INFO - ROC AUC: 0.49967731082550826
+2025-06-11 10:48:39,056 - INFO - Model training and evaluation completed successfully
+2025-06-11 10:51:05,378 - INFO - ModelTraining initialized with processed data path: artifacts/processed and model output path: artifacts/model
+2025-06-11 10:51:05,406 - INFO - Data loaded successfully from artifacts/processed
+2025-06-11 10:51:18,345 - INFO - Model trained successfully
+2025-06-11 10:51:19,348 - INFO - Model evaluation metrics:
+2025-06-11 10:51:19,348 - INFO - Accuracy: 0.5995223880597015
+2025-06-11 10:51:19,348 - INFO - F1 Score: 0.45031668492929605
+2025-06-11 10:51:19,348 - INFO - Precision: 0.536223766057273
+2025-06-11 10:51:19,348 - INFO - Recall: 0.5995223880597015
+2025-06-11 10:51:19,348 - INFO - ROC AUC: 0.49967731082550826
+2025-06-11 10:51:19,348 - INFO - Model training and evaluation completed successfully
+2025-06-11 10:52:34,965 - INFO - Model Training Initialization...
+2025-06-11 10:52:34,988 - INFO - Data loaded for Model
+2025-06-11 10:52:48,054 - INFO - Model trained and saved sucesfully...
+2025-06-11 10:52:48,617 - INFO - Accuracy : 0.5995223880597015 ; Precision : 0.536223766057273 ; Recall : 0.5995223880597015 ; F1-Score : 0.45031668492929605
+2025-06-11 10:52:48,680 - INFO - ROC-AUC Score : 0.49967731082550826
+2025-06-11 10:52:48,680 - INFO - Model evaluation done...
+2025-06-11 10:58:00,366 - INFO - Model Training Initialization...
+2025-06-11 10:58:00,414 - INFO - Data loaded for Model
+2025-06-11 10:58:25,804 - INFO - Model trained and saved sucesfully...
+2025-06-11 10:58:30,859 - INFO - Accuracy : 0.5995223880597015 ; Precision : 0.536223766057273 ; Recall : 0.5995223880597015 ; F1-Score : 0.45031668492929605
+2025-06-11 10:58:32,452 - INFO - ROC-AUC Score : 0.49967731082550826
+2025-06-11 10:58:32,452 - INFO - Model evaluation done...
