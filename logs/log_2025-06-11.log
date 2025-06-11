@@ -1,0 +1,33 @@
+2025-06-11 08:55:30,173 - INFO - DataProcessing initialized with input path: artifacts/raw/data.csv and output path: artifacts/processed
+2025-06-11 08:55:30,695 - INFO - Data loaded successfully from artifacts/raw/data.csv
+2025-06-11 08:55:31,288 - INFO - Categorical columns encoded successfully
+2025-06-11 08:55:31,786 - INFO - Feature selection completed with top features
+2025-06-11 08:55:31,976 - INFO - Data split and scaled successfully
+2025-06-11 08:55:32,009 - INFO - Scaler and data saved successfully
+2025-06-11 08:55:32,009 - INFO - Data processing completed successfully
+2025-06-11 09:13:11,087 - INFO - ModelTraining initialized with processed data path: ärtifacts/processed and model output path: artifacts/model
+2025-06-11 09:13:11,087 - ERROR - Error loading data: [Errno 2] No such file or directory: 'ärtifacts/processed\\X_train.pkl'
+2025-06-11 09:13:11,088 - ERROR - An unexpected error occurred: __init__() missing 1 required positional argument: 'error_detail'
+2025-06-11 09:15:36,979 - INFO - ModelTraining initialized with processed data path: ärtifacts/processed and model output path: artifacts/model
+2025-06-11 09:15:36,980 - ERROR - Error loading data: [Errno 2] No such file or directory: 'ärtifacts/processed\\X_train.pkl'
+2025-06-11 09:15:36,980 - ERROR - An unexpected error occurred: __init__() missing 1 required positional argument: 'error_detail'
+2025-06-11 09:17:20,406 - INFO - ModelTraining initialized with processed data path: artifacts/processed and model output path: artifacts/model
+2025-06-11 09:17:20,445 - INFO - Data loaded successfully from artifacts/processed
+2025-06-11 09:17:32,257 - INFO - Model trained successfully
+2025-06-11 09:17:33,014 - INFO - Model evaluation metrics:
+2025-06-11 09:17:33,014 - INFO - Accuracy: 0.5995223880597015
+2025-06-11 09:17:33,014 - INFO - F1 Score: 0.45031668492929605
+2025-06-11 09:17:33,014 - INFO - Precision: 0.536223766057273
+2025-06-11 09:17:33,014 - INFO - Recall: 0.5995223880597015
+2025-06-11 09:17:33,014 - INFO - ROC AUC: 0.49967731082550826
+2025-06-11 09:17:33,014 - INFO - Model training and evaluation completed successfully
+2025-06-11 09:47:44,339 - INFO - ModelTraining initialized with processed data path: artifacts/processed and model output path: artifacts/model
+2025-06-11 09:47:44,370 - INFO - Data loaded successfully from artifacts/processed
+2025-06-11 09:47:56,813 - INFO - Model trained successfully
+2025-06-11 09:47:57,732 - INFO - Model evaluation metrics:
+2025-06-11 09:47:57,732 - INFO - Accuracy: 0.5995223880597015
+2025-06-11 09:47:57,732 - INFO - F1 Score: 0.45031668492929605
+2025-06-11 09:47:57,732 - INFO - Precision: 0.536223766057273
+2025-06-11 09:47:57,732 - INFO - Recall: 0.5995223880597015
+2025-06-11 09:47:57,732 - INFO - ROC AUC: 0.49967731082550826
+2025-06-11 09:47:57,733 - INFO - Model training and evaluation completed successfully
