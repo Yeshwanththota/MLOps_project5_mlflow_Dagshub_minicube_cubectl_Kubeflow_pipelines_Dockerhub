@@ -1,4 +1,5 @@
 venv/
 MLOPS_project5.egg-info/
 mlruns/
-.ipynb
+*.ipynb
+
