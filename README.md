@@ -9,7 +9,10 @@
   <img src="https://img.shields.io/badge/Kubeflow_Pipelines-0098DB?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow Pipelines"/>
   <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHub"/>
 </p>
-** Go to mlops_project5_outputs for artifacts**
+
+**Summary:** Integrated MLflow for experiment tracking, both locally and with Dagshub. Set up Kubeflow pipelines on a local Minikube cluster, containerized the project with Docker, and managed pipeline runs and deployments through the Kubeflow dashboard.
+
+**Go to mlops_project5_outputs for artifacts**
 
 Step 1
 Project setup
